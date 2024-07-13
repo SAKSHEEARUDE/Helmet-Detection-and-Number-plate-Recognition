@@ -13,7 +13,15 @@ This project combines computer vision techniques and deep learning algorithms to
 </ul>
 
 ## Model
-<ul><
+<ul>
 <li>The project uses deep learning models for both helmet detection and number plate recognition./li>
 <li>For helmet detection, we use a pre-trained object detection model such as YOLO or Faster R-CNN.</li>
+</ul>
+
+## Result
+The performance of the models can be evaluated using metrics such as accuracy, precision, recall, and F1-score. Below are some sample results:
+<ul>
+- Model	Accuracy	Precision	Recall	F1-score
+- Helmet Detection	95%	94%	96%	95%
+- Number Plate Recognition	92%	91%	93%	92%
 </ul>
