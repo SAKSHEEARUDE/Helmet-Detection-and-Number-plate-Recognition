@@ -28,5 +28,5 @@ The performance of the models can be evaluated using metrics such as accuracy, p
             { metric: 'Precision', value: 0.94% },
             { metric: 'Rcall', value: 0.96% },
             { metric: 'F1-Score', value: 0.95 %}
-             <\script>
+            </Script>
       
