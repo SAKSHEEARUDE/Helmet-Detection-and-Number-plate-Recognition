@@ -18,15 +18,5 @@ This project combines computer vision techniques and deep learning algorithms to
 <li>For helmet detection, we use a pre-trained object detection model such as YOLO or Faster R-CNN.</li>
 </ul>
 
-## Result
-The performance of the models can be evaluated using metrics such as accuracy, precision, recall, and F1-score. Below are some sample results:<script>
-        // Data for the table
-        <h1>Helmet Detection<\h1>
-         <script>
-        const metrics = [
-            { metric: 'Accuracy', value: 0.95% },
-            { metric: 'Precision', value: 0.94% },
-            { metric: 'Rcall', value: 0.96% },
-            { metric: 'F1-Score', value: 0.95 %}
-            </Script>
+
       
