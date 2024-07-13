@@ -21,7 +21,7 @@ This project combines computer vision techniques and deep learning algorithms to
 ## Result
 The performance of the models can be evaluated using metrics such as accuracy, precision, recall, and F1-score. Below are some sample results:
 <ul>
-- Model	Accuracy	Precision	Recall	F1-score
-- Helmet Detection	95%	94%	96%	95%
-- Number Plate Recognition	92%	91%	93%	92%
+- Model	Accuracy	Precision	Recall	F1-score<br>
+- Helmet Detection	95%	94%	96%	95%<br>
+- Number Plate Recognition	92%	91%	93%	92%<br>
 </ul>
